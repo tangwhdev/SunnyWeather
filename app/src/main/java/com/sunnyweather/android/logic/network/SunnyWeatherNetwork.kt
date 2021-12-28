@@ -9,7 +9,7 @@ import kotlin.coroutines.resume
 import kotlin.coroutines.resumeWithException
 import kotlin.coroutines.suspendCoroutine
 
-class SunnyWeatherNetwork {
+object SunnyWeatherNetwork {
     private val placeService = ServiceCreator.create<PlaceService>()
 
     suspend fun searchPlace(query:String) = placeService.searchPlaces(query).await()
