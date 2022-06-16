@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    	
+    <dimen name="card_common_margin_left">@dimen/dp_15</dimen>
+    	
+    <dimen name="dp_m_60">-45.0556dp</dimen>
+    	
+    <dimen name="dp_m_30">-22.5278dp</dimen>
+    	
+    <dimen name="dp_m_20">-15.0185dp</dimen>
+    	
+    <dimen name="dp_m_12">-9.0111dp</dimen>
+    	
+    <dimen name="dp_m_10">-7.5093dp</dimen>
+    	
+    <dimen name="dp_m_8">-6.0074dp</dimen>
+    	
+    <dimen name="dp_m_5">-3.7546dp</dimen>
+    	
+    <dimen name="dp_m_2">-1.5019dp</dimen>
+    	
+    <dimen name="dp_m_1">-0.7509dp</dimen>
+    	
+    <dimen name="dp_0">0.0000dp</dimen>
+    	
+    <dimen name="dp_0_1">0.0751dp</dimen>
+    	
+    <dimen name="dp_0_5">0.3755dp</dimen>
+    	
+    <dimen name="px_1">0.7509dp</dimen>
+    	
+    <dimen name="px_1_5">1.1264dp</dimen>
+    	
+    <dimen name="px_2">1.5019dp</dimen>
+    	
+    <dimen name="dp_15">11.2639dp</dimen>
+</resources>
